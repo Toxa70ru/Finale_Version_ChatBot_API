@@ -1,0 +1,14 @@
+C:\Users\TsymbalAV\source\repos\QuestionsAndAnswers\QuestionsAndAnswers.DataLayer\bin\Debug\net6.0\QuestionsAndAnswers.DataLayer.deps.json
+C:\Users\TsymbalAV\source\repos\QuestionsAndAnswers\QuestionsAndAnswers.DataLayer\bin\Debug\net6.0\QuestionsAndAnswers.DataLayer.runtimeconfig.json
+C:\Users\TsymbalAV\source\repos\QuestionsAndAnswers\QuestionsAndAnswers.DataLayer\bin\Debug\net6.0\QuestionsAndAnswers.DataLayer.dll
+C:\Users\TsymbalAV\source\repos\QuestionsAndAnswers\QuestionsAndAnswers.DataLayer\bin\Debug\net6.0\QuestionsAndAnswers.DataLayer.pdb
+C:\Users\TsymbalAV\source\repos\QuestionsAndAnswers\QuestionsAndAnswers.DataLayer\obj\Debug\net6.0\QuestionsAndAnswers.DataLayer.csproj.AssemblyReference.cache
+C:\Users\TsymbalAV\source\repos\QuestionsAndAnswers\QuestionsAndAnswers.DataLayer\obj\Debug\net6.0\QuestionsAndAnswers.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TsymbalAV\source\repos\QuestionsAndAnswers\QuestionsAndAnswers.DataLayer\obj\Debug\net6.0\QuestionsAndAnswers.DataLayer.AssemblyInfoInputs.cache
+C:\Users\TsymbalAV\source\repos\QuestionsAndAnswers\QuestionsAndAnswers.DataLayer\obj\Debug\net6.0\QuestionsAndAnswers.DataLayer.AssemblyInfo.cs
+C:\Users\TsymbalAV\source\repos\QuestionsAndAnswers\QuestionsAndAnswers.DataLayer\obj\Debug\net6.0\QuestionsAndAnswers.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\TsymbalAV\source\repos\QuestionsAndAnswers\QuestionsAndAnswers.DataLayer\obj\Debug\net6.0\QuestionsAndAnswers.DataLayer.dll
+C:\Users\TsymbalAV\source\repos\QuestionsAndAnswers\QuestionsAndAnswers.DataLayer\obj\Debug\net6.0\refint\QuestionsAndAnswers.DataLayer.dll
+C:\Users\TsymbalAV\source\repos\QuestionsAndAnswers\QuestionsAndAnswers.DataLayer\obj\Debug\net6.0\QuestionsAndAnswers.DataLayer.pdb
+C:\Users\TsymbalAV\source\repos\QuestionsAndAnswers\QuestionsAndAnswers.DataLayer\obj\Debug\net6.0\QuestionsAndAnswers.DataLayer.genruntimeconfig.cache
+C:\Users\TsymbalAV\source\repos\QuestionsAndAnswers\QuestionsAndAnswers.DataLayer\obj\Debug\net6.0\ref\QuestionsAndAnswers.DataLayer.dll
